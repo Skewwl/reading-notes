@@ -38,16 +38,20 @@ Hi! My name is Margin. I'm like the property lines around your yard that keep yo
 
 - What data types can you store inside of an Array?
   
-  
+  All data types can be stored inside of an array.
   
 - Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
   
-  
+  Yes this is a valid array. Many of the values nested inside of it were typed incorrectly hence they will output as undefined. We can access the values by using people[#]. 
   
 - List five shorthand operators for assignment in javascript and describe what they do.
   
-  
+  - x += y This will add the value of y to x. 
+  - x -= y This will subtract the value of y to x. 
+  - x %= y This will add the remainder value of expression y to x. 
+  - x *= y This will multiply the value of y to x.
+  - x /= y This will divide the value of y into x.
   
 - Read the code below and evaluate the last expression and explain what the result would be and why.
  let a = 10;
@@ -56,13 +60,13 @@ Hi! My name is Margin. I'm like the property lines around your yard that keep yo
  // evaluate this
  (a + c) + b;
   
-  
+- (10 + false) + 'dog' --The result would essentially be the same thing since you can't add different data types to eachother.
   
 - Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
-  
+  You could use a conditional statement in JavaScript if you need the program to make an execution based on a previous value or input placed by the user. 
   
 - Give an example of when a Loop is useful in JavaScript.
 
-
+  A loop is useful when you need the program to continuously run through repetative tasks.
 
