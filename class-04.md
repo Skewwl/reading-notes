@@ -41,17 +41,17 @@ Absolute position scrolls normally as you peruse through your website where fixe
 ## Learn JS
 ### Functions – Reusable Blocks of Code
 
--Describe the difference between a function declaration and a function invocation.
+- Describe the difference between a function declaration and a function invocation.
 
+A function declaration is the creation of a function. Example: function myfunction(){};. Function invokation is the use or calling of the function. Example: myfunction();.
 
+- What is the difference between a parameter and an argument?
 
--What is the difference between a parameter and an argument?
-
-
+Functions require parameters to be specified when you are invoking them (inside the function parentheses). Arguments are the data you pass into the method's parameters.
 
 ## Miscellaneous
 ### 6 Reasons for Pair Programming
 
-Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+- Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
-
+I see how pair programming could be a good skill to prep me for my future job interview. Talking about code with another developer on both the side of the driver and the navigator have clear advantages. I also like how it would give me the opportunity to learn how other devs think when they go about their coding and I could also pick up some neat and handy tricks I am sure.
