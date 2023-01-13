@@ -5,11 +5,11 @@
 
 ## - Code 201 - Foundations of Software Development
 
-- class 1
+- [class 1](https://github.com/rhettb253/reading-notes/blob/main/class-01.md)
 
-- class 2
+- [class 2](https://github.com/rhettb253/reading-notes/blob/main/class-02.md)
 
-- class 3
+- [class 3](https://github.com/rhettb253/reading-notes/blob/main/class-03.md)
 
 - class 4
 
