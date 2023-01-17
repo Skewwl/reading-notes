@@ -32,3 +32,4 @@ Becuase they are sixed according to their content at times, they reduce accessib
 - Explain prototypes and inheritance via an analogy from your previous work experience.
      NOTE: This is a very common front end developer interview question.
   
+Prototypes and inheritance can be thought of as a way to organize and share information, like how a company might have a set of standard procedures and protocols that all employees inherit and can build upon. The prototype is the original set of procedures and protocols, while inheritance allows employees to add their own unique procedures and protocols that build upon the original set.
