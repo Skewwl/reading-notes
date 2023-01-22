@@ -32,13 +32,13 @@ The grid container is element on which display: grid is applied. It’s the dire
 
 - Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
   
-We want to display identical image content, just larger or smaller depending on the device.
+Because we want to display identical image content on any screen size.
   
 - Define the following <img> attributes srcset and sizes. Write an example of how they are used.
   
-  
+The 'srcset' defines the set of images we will allow the browser to choose between. The 'sizes' defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true. They are used to aid screen size changes, they choose differnet pictures that would work better with the new viewport.
   
 - How is srcset more helpful for responsive images than CSS or JavaScript?
-  
-  
 
+Srcset is more helpful because instead of the same picture expanding or shifting dimensions to fit its space on the screen it will invoke the use of a new image to better fit the new layout so resolution is not distorted as much or at all.
+  
