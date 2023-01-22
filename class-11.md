@@ -4,7 +4,7 @@
 
 - Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 
-Origianlly it was available through 3rd party sources and there were secrurity and accessibilty issues but now we have the ability to use video and audio with native capabilities within HTML.
+Originally it was available through 3rd party sources and there were security and accessibility issues but now we have the ability to use video and audio with native capabilities within HTML.
 
 - Describe the use of the src and controls attributes in the <video> element.
   
