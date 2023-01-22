@@ -22,17 +22,17 @@ One upon a time there were two friends who wanted to be the same but never coud 
 
 - How does Grid layout differ from Flex?
   
-  
+Flexbox is considered a one dimensional layout while grid is a two dimensional layout.
   
 - Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
 
-  
+The grid container is element on which display: grid is applied. It’s the direct parent of all the grid items. The grid items are the children (i.e. direct descendants) of the grid container. The grid lines are the dividing lines that make up the structure of the grid. They can be either vertical (“column grid lines”) or horizontal (“row grid lines”) and reside on either side of a row or column.
   
 ## Responsive Images
 
 - Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
   
-  
+We want to display identical image content, just larger or smaller depending on the device.
   
 - Define the following <img> attributes srcset and sizes. Write an example of how they are used.
   
