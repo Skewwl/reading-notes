@@ -1,43 +1,29 @@
 # class-10.md
 
-## HTML Forms
-### Your first Web Form. How To Structure A Web Form.
+## What Went Wrong? Troubleshooting JavaScript.
 
-- Why are forms so important in web development?
+- Name some key differences between a Syntax Error and a Logic Error.
 
-Web forms are one of the main points of interaction between a user and a website or application. Forms allow users to enter data, which is generally sent to a web server for processing and storage. It allows developers to create a page that stores information for businesses.
+Syntax errors come with an error mesage and cause the program to not run at all. Logic errors are more difficult because the eroor message might not pop up and take a lot more mental effort to fix.
 
-- When designing a form, what are some key things to keep in mind when it comes to user experience?
+- List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
 
-The bigger your form, the more you risk frustrating people and losing users. Keep it simple and stay focused: ask only for the data you absolutely need.
+I just got a NaN error when trying to add value to the footer row of our tables in lab-06. I couldn't fix it I eventually just quit, deleted all of my code and tried again in a few hours. Syntax errors are my favorite because I know exactly what line to look at and they typically dont lead to more and more errors.
 
-- List 5 form elements and explain their importance.
-  - <Form> The element that encompasses the entire operation, can be thought of like a header.
-  - The <fieldset> element is a convenient way to create groups of widgets that share the same purpose, for styling and semantic purposes. 
-  - You can label a fieldset by including a <legend> element just below the opening fieldset tag. The text content of the <legend> formally describes the purpose of the fieldset it is included inside.
-  - The <label> element is important if you want to build accessible forms.
-  - <input> is where the user puts their data which we store IMO it is the most important cause thats like the whole point.
+- How will this topic continue to influence your long term goals?
 
-## Learn JS
-### Introduction To Events.
+This topic doesn't influence me a lot any way becasue running into bumps and overcoming them is basically the name of the game and even though it kills me sometimes there is nothing but more of it in any software dev job I might land myself in.
 
-- How would you describe events to a non-technical friend?
+##The JavaScript Debugger.
 
-An event is something that happens that we want to know about, it lets us know that an action has taken place or data has arrived.
+- How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
 
-- When using the addEventListener() method, what 2 arguments will you need to provide?
+The JavaScript Debugger is a tool that freezes you code a certain spots so that you can verify where you code is running amuck. 
 
-The name of the event and a function to handle the event.
+- Define what a breakpoint is.
 
-- Describe the event object. Why is the target within the event object useful?
+A breakpoint is the point where the debugger stops executing code so that the developer can verify that everything is running smoothly up until that point.
 
-A parameter inside an event handler function, specified with a name such as event. It is automatically passed to event handlers to provide extra features and information. The target property of the event object is nice to have because it is a reference to the element the event occurred upon.
+- What is the call stack?
 
-- What is the difference between event bubbling and event capturing?
-  
-Event bubbling describes how the browser handles events targeted at nested elements, starting with the most nested event. Event capturing works in reverse. The event fires first on the least nested element, and then on successively more nested elements, until the target is reached.
-
- 
-
-
-  
+The call stack is the code that was executed to get you to the break point.
