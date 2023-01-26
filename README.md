@@ -35,6 +35,8 @@
 
 - [class 15](https://github.com/rhettb253/reading-notes/blob/main/class-15.md)
 
+- [Psycho Saftey](https://github.com/rhettb253/reading-notes/blob/main/PsychoSaftey.md)
+
 
 ## - Code 301 - Intermediate Software Development
 
