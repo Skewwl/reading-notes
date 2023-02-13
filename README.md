@@ -50,5 +50,15 @@
 
 - [class 5](https://github.com/rhettb253/reading-notes/blob/main/class05.md)
 
+- [class 6](https://github.com/rhettb253/reading-notes/blob/main/class06.md)
+
+- [class 7](https://github.com/rhettb253/reading-notes/blob/main/class07.md)
+
+- [class 8](https://github.com/rhettb253/reading-notes/blob/main/class08.md)
+
+- [class 9](https://github.com/rhettb253/reading-notes/blob/main/class09.md)
+
+- [class 10](https://github.com/rhettb253/reading-notes/blob/main/class10.md)
+
 
 ## - Code 401 - Advanced Software Development
