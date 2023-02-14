@@ -4,7 +4,7 @@
 
 - What does .map() return?
 
-
+A new array with each element being the result of the callback function.
 
 - If I want to loop through an array and display each value in JSX, how do I do that in React?
 
