@@ -46,3 +46,4 @@ A point here your code will run up to in order to so you can verify if everythin
 
 - What does the word ‘debugger’ do in your code?
 
+When running the app you can see the “history” before reaching that breakpoint.
