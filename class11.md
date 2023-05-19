@@ -4,12 +4,19 @@
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
-SQL	                                        NoSQL
-- Relational DB                             - Non-relational or distributed DB  
-- Table based schema	                      - No standard schema
-- Vertically scalable by increasing power 	- Horizontally scalable by increasing servers 
-- Uses SQL to define & manipulate the data	- Varying syntax per DB
-- Better for complex query environment      - Better for hierarchical data storage
+#### SQL
+- Relational DB
+- Table based schema  
+- Vertically scalable by increasing power
+- Uses SQL to define & manipulate the data
+- Better for complex query environment
+
+#### NoSQL
+- Non-relational or distributed DB
+- No standard schema
+- Horizontally scalable by increasing servers
+- Varying syntax per DB
+- Better for hierarchical data storage
  	 
 - What kind of data is a good fit for an SQL database?
 
