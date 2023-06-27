@@ -72,3 +72,33 @@
 
 
 ## - Code 401 - Advanced Software Development
+
+- [class 1](https://github.com/rhettb253/reading-notes/blob/main/class_01.md)
+
+- [class 2](https://github.com/rhettb253/reading-notes/blob/main/class_02.md)
+
+- [class 3](https://github.com/rhettb253/reading-notes/blob/main/class_03.md)
+
+- [class 4](https://github.com/rhettb253/reading-notes/blob/main/class_04.md)
+
+- [class 5](https://github.com/rhettb253/reading-notes/blob/main/class_05.md)
+
+- [class 6](https://github.com/rhettb253/reading-notes/blob/main/class_06.md)
+
+- [class 7](https://github.com/rhettb253/reading-notes/blob/main/class_07.md)
+
+- [class 8](https://github.com/rhettb253/reading-notes/blob/main/class_08.md)
+
+- [class 9](https://github.com/rhettb253/reading-notes/blob/main/class_09.md)
+
+- [class 10](https://github.com/rhettb253/reading-notes/blob/main/class_10.md)
+
+- [class 11](https://github.com/rhettb253/reading-notes/blob/main/class_11.md)
+
+- [class 12](https://github.com/rhettb253/reading-notes/blob/main/class_12.md)
+
+- [class 13](https://github.com/rhettb253/reading-notes/blob/main/class_13.md)
+
+- [class 14](https://github.com/rhettb253/reading-notes/blob/main/class_14.md)
+
+- [class 15](https://github.com/rhettb253/reading-notes/blob/main/class_15.md)
