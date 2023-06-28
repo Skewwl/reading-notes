@@ -73,6 +73,8 @@
 
 ## - Code 401 - Advanced Software Development
 
+- [SQL](https://github.com/rhettb253/reading-notes/blob/main/SQL.md)
+
 - [class 1](https://github.com/rhettb253/reading-notes/blob/main/class_01.md)
 
 - [class 2](https://github.com/rhettb253/reading-notes/blob/main/class_02.md)
