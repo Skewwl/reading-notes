@@ -73,6 +73,8 @@
 
 ## - Code 401 - Advanced Software Development
 
+- [Command Line](https://github.com/rhettb253/reading-notes/blob/main/commandline.md)
+
 - [DS&A](https://github.com/rhettb253/reading-notes/blob/main/DSaA.md)
 
 - [SQL](https://github.com/rhettb253/reading-notes/blob/main/SQL.md)
