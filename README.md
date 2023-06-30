@@ -73,6 +73,8 @@
 
 ## - Code 401 - Advanced Software Development
 
+- [DS&A](https://github.com/rhettb253/reading-notes/blob/main/DSaA.md)
+
 - [SQL](https://github.com/rhettb253/reading-notes/blob/main/SQL.md)
 
 - [class 1](https://github.com/rhettb253/reading-notes/blob/main/class_01.md)
