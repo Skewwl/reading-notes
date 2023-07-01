@@ -73,6 +73,8 @@
 
 ## - Code 401 - Advanced Software Development
 
+- [Growth Mindset](https://github.com/rhettb253/reading-notes/blob/main/growth.md)
+
 - [Command Line](https://github.com/rhettb253/reading-notes/blob/main/commandline.md)
 
 - [DS&A](https://github.com/rhettb253/reading-notes/blob/main/DSaA.md)
