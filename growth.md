@@ -1,0 +1,3 @@
+# Growth Mindset
+
+Carol Dweck said that we need to fix our mindset on the future and what we can achieve going forward. This way we are able to struggle through our problems to emerge victorious on the other side of defeat. We have to be able to imagine what we could be not what we are. Instead, today's world has made children only capable of performing tasks if they know they get an ice cream cone at the end of it all. We have seen this when people get too offended or concerned by other people's opinions of them that they would rather not continue participating in whatever the act may be. We need to redefine success by growth, not by reward.
