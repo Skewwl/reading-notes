@@ -110,3 +110,7 @@
 - [class 14](https://github.com/rhettb253/reading-notes/blob/main/class_14.md)
 
 - [class 15](https://github.com/rhettb253/reading-notes/blob/main/class_15.md)
+
+- [class 16](https://github.com/rhettb253/reading-notes/blob/main/class_16.md)
+
+- [class 17](https://github.com/rhettb253/reading-notes/blob/main/class_17.md)
