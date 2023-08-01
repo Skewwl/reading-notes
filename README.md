@@ -114,3 +114,9 @@
 - [class 16](https://github.com/rhettb253/reading-notes/blob/main/class_16.md)
 
 - [class 17](https://github.com/rhettb253/reading-notes/blob/main/class_17.md)
+
+- [class 18](https://github.com/rhettb253/reading-notes/blob/main/class_18.md)
+
+- [class 19](https://github.com/rhettb253/reading-notes/blob/main/class_19.md)
+
+- [class 20](https://github.com/rhettb253/reading-notes/blob/main/class_20.md)
