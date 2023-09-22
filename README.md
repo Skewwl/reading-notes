@@ -120,3 +120,11 @@
 - [class 19](https://github.com/rhettb253/reading-notes/blob/main/class_19.md)
 
 - [class 20](https://github.com/rhettb253/reading-notes/blob/main/class_20.md)
+  
+- [class 26](https://github.com/rhettb253/reading-notes/blob/main/class_26.md)
+
+- [class 27](https://github.com/rhettb253/reading-notes/blob/main/class_27.md)
+
+- [class 28](https://github.com/rhettb253/reading-notes/blob/main/class_28.md)
+
+
