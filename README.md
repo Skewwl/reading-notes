@@ -127,4 +127,6 @@
 
 - [class 28](https://github.com/rhettb253/reading-notes/blob/main/class_28.md)
 
+- [class 29](https://github.com/rhettb253/reading-notes/blob/main/class_29.md)
+
 
