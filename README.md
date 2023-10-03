@@ -129,4 +129,14 @@
 
 - [class 29](https://github.com/rhettb253/reading-notes/blob/main/class_29.md)
 
+- [class 30](https://github.com/rhettb253/reading-notes/blob/main/class_30.md)
 
+- [class 31](https://github.com/rhettb253/reading-notes/blob/main/class_31.md)
+ 
+- [class 32](https://github.com/rhettb253/reading-notes/blob/main/class_32.md)
+   
+- [class 33](https://github.com/rhettb253/reading-notes/blob/main/class_33.md)
+     
+- [class 34](https://github.com/rhettb253/reading-notes/blob/main/class_34.md)
+       
+- [class 35](https://github.com/rhettb253/reading-notes/blob/main/class_35.md)
