@@ -139,4 +139,6 @@
      
 - [class 34](https://github.com/rhettb253/reading-notes/blob/main/class_34.md)
        
-- [class 35](https://github.com/rhettb253/reading-notes/blob/main/class_35.md)
+- [class 36](https://github.com/rhettb253/reading-notes/blob/main/class_36.md)
+ 
+- [class 37](https://github.com/rhettb253/reading-notes/blob/main/class_37.md)
