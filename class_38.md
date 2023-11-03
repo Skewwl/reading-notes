@@ -4,7 +4,7 @@
 
 ### Why use Redux middleware?
 
-- Redux middleware extends the functionality of Redux by allowing developers to intercept actions before they reach the reducer. It provides a way to handle asynchronous actions, perform side effects (like logging or analytics), and modify actions before they reach the reducers.
+- Redux middleware extends the functionality of Redux by allowing developers to intercept actions before they reach the reducer. It provides a way to handle asynchronous actions, and modify actions before they reach the reducers.
 
 ### Consider the Redux Async Data Flow Diagram. Describe the flow in your own words.
 
